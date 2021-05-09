@@ -1,0 +1,8 @@
+*.gc*
+*vgcore*
+*.o
+my_rpg
+unitest
+.vscode
+*~*
+libmy.a
