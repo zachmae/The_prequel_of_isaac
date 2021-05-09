@@ -5,7 +5,7 @@
 ## this is the makefile for matchstick
 ##
 
-NAME		=		my_rpg
+NAME		=		the_prequel_of_isaac
 
 NAMET		=		${NAME}_tests
 
